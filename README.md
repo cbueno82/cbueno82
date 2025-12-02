@@ -15,13 +15,13 @@
 ## About Me
 
 I am a **Junior Data Analyst** with a strong focus on **Natural Language Processing (NLP)** and analytical workflow development.  
-I work mainly with **Python, Pandas, spaCy, scikit-learn, SQL**, and visualization tools to build structured and reproducible pipelines for text and structured data.
+I work mainly with **Python, Pandas, spaCy, scikit-learn, SQL**, and visualisation tools to build structured and reproducible pipelines for text and structured data.
 
 Main interests:
 
 - NLP: linguistic features, embeddings, text classification  
 - Exploratory Data Analysis (EDA)  
-- Data visualization and storytelling  
+- Data visualisation and storytelling  
 - Statistical insights for decision-making  
 - Reproducible analytical workflows  
 
@@ -54,7 +54,7 @@ Includes:
 cloud fundamentals · AWS core services · Linux · networking · security · Python for automation · cloud databases · instructor-led teamwork and labs.
 
 ### • Business Intelligence & AI  
-- **Power BI**: data modeling, DAX, dashboards  
+- **Power BI** (Datahack & IBM): data modelling, DAX, dashboards  
 - **AI Foundations** (Datahack & IBM): ML basics, supervised/unsupervised learning, evaluation metrics  
 
 ---
@@ -70,12 +70,12 @@ Using techniques such as **n-grams, bigrams, sentiment analysis, keyword context
 In short, the project bridges **literary studies and NLP** by providing reproducible tools to study environmental discourse and thematic patterns across different historical moments.
 
 **Key components:**
-- Corpus cleaning and preprocessing (regex, normalization, stopwords)
+- Corpus cleaning and preprocessing (regex, normalisation, stopwords)
 - Tokenization, lemmatization, POS tagging, dependency parsing (spaCy)
 - Sentiment analysis with NLTK’s VADER  
 - Extraction of n-grams, bigrams, and contextual keyword analysis  
-- Topic modeling with Gensim (LDA) and BERTopic
-- Exploratory visualizations (Matplotlib, Seaborn)  
+- Topic modelling with Gensim (LDA) and BERTopic
+- Exploratory visualisations (Matplotlib, Seaborn)  
 - Reproducible workflows with Pandas, NumPy, Jupyter & Git  
 
 **Technologies:**  
@@ -133,4 +133,4 @@ You can reach me here:
 Template adapted from  
 **[thesaravanakumar](https://github.com/thesaravanakumar)**  
 
-Last edited: dec-2025
+Last edited: Dec 2025
