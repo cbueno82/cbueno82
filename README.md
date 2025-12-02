@@ -74,7 +74,7 @@ In short, the project bridges **literary studies and NLP** by providing reproduc
 - Tokenization, lemmatization, POS tagging, dependency parsing (spaCy)
 - Sentiment analysis with NLTK’s VADER  
 - Extraction of n-grams, bigrams, and contextual keyword analysis  
-- Topic modeling with **Gensim (LDA)** and **BERTopic**  
+- Topic modeling with Gensim (LDA) and BERTopic
 - Exploratory visualizations (Matplotlib, Seaborn)  
 - Reproducible workflows with Pandas, NumPy, Jupyter & Git  
 
