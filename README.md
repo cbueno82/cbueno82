@@ -1,29 +1,30 @@
 <h3 align="center">
-
   Welcome, I'm Clara
+</h3>
 
-  ![header](https://github.com/cbueno82/cbueno82/blob/main/banner.png)
+<p align="center">
+  <img src="https://github.com/cbueno82/cbueno82/blob/main/banner.png" alt="header banner"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cbueno82&label=Profile%20Views&color=4CAF50&style=flat" alt="profile views"/>
 </p>
 
-</h3>
-
 ---
 
 ## About Me
 
-I am a **Junior Data Analyst** with a strong focus on **Natural Language Processing (NLP)** and analytical workflow development.  
-I work mainly with **Python, Pandas, spaCy, scikit-learn, SQL**, and visualisation tools to build structured and reproducible pipelines for text and structured data.
+I am a **Junior Data Analyst** with a strong focus on **Natural Language Processing (NLP)**, text analysis, and reproducible analytical workflows.
 
-Main interests:
+I work mainly with **Python, Pandas, spaCy, scikit-learn, SQL**, and visualisation tools to build structured pipelines for both text and tabular data. My interests lie at the intersection of **data analysis, language, and decision-making**, with experience in exploratory analysis, workflow design, and project-based learning.
 
-- NLP: linguistic features, embeddings, text classification  
-- Exploratory Data Analysis (EDA)  
-- Data visualisation and storytelling  
-- Statistical insights for decision-making  
-- Reproducible analytical workflows  
+**Main interests:**
+- Natural Language Processing (NLP)
+- Exploratory Data Analysis (EDA)
+- Text classification and linguistic analysis
+- Data visualisation and storytelling
+- Statistical insights for decision-making
+- Reproducible analytical workflows
 
 ---
 
@@ -34,103 +35,93 @@ Main interests:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" height="32" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="32" height="32" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="32" height="32" alt="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" height="32" alt="VSCode"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="32" height="32" alt="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="32" height="32" alt="Tableau"/>
 </p>
 
-**Additional libraries:** BERTopic · Gensim (LDA) · scikit-learn · regex · glob · Seaborn · spaCy · NLTK 
+**Core tools and libraries:**  
+Python · Pandas · NumPy · spaCy · scikit-learn · SQL · Jupyter · Matplotlib · Seaborn · Git
+
+**Additional libraries:**  
+BERTopic · Gensim (LDA) · NLTK · regex · glob
 
 ---
 
-## Currently Learning
+## Training & Certifications
 
-### • AWS Cloud (Adalab – AWS re/Start Program)
-Hands-on cloud training designed by AWS and delivered by Adalab, funded by the Nous Cims Foundation.
+### AWS re/Start Graduate
+I completed the **AWS re/Start** training program, with hands-on preparation in:
 
-Includes:  
-cloud fundamentals · AWS core services · Linux · networking · security · Python for automation · cloud databases · instructor-led teamwork and labs.
+- Cloud fundamentals
+- AWS core services
+- Linux
+- Networking
+- Security
+- Python for automation
+- Databases
+- Team-based labs and collaborative workflows
 
-### • Business Intelligence & AI  
-- **Power BI** (Datahack & IBM): data modelling, DAX, dashboards  
-- **AI Foundations** (Datahack & IBM): ML basics, supervised/unsupervised learning, evaluation metrics  
+### Business Intelligence & AI Training
+- **Power BI** (Datahack & IBM): data modelling, DAX, dashboards
+- **AI Foundations** (Datahack & IBM): machine learning basics, supervised and unsupervised learning, evaluation metrics
 
 ---
 
-## Project In Progress
+## Featured Projects
 
-### **Analysis of Literary Texts Using NLP Techniques**  
-This is my current main project, where I am building a complete end-to-end NLP and Data Analysis pipeline.
+### Library Graph
+A team-developed web application created as part of the AWS re/Start program.  
+This project combines cloud-based development, collaborative work, and data-focused thinking in a practical application environment.
 
-The project focuses on applying computational methods to **Digital Humanities**, specifically for comparative textual analysis in an **ecocritical** framework.  
-Using techniques such as **n-grams, bigrams, sentiment analysis, keyword context exploration, and custom lexicon creation**, the goal is to examine how representations of nature, landscape, and the picturesque evolve across English literature, mainly from the **19th and 20th centuries**, with possible extensions to earlier periods.
+**Repository:**  
+→ https://github.com/cbueno82/library-graph
 
-In short, the project bridges **literary studies and NLP** by providing reproducible tools to study environmental discourse and thematic patterns across different historical moments.
+### Analysis of Literary Texts Using NLP Techniques
+An end-to-end NLP and data analysis project focused on **Digital Humanities** and comparative textual analysis.
 
-**Key components:**
-- Corpus cleaning and preprocessing (regex, normalisation, stopwords)
-- Tokenization, lemmatization, POS tagging, dependency parsing (spaCy)
-- Sentiment analysis with NLTK’s VADER  
-- Extraction of n-grams, bigrams, and contextual keyword analysis  
-- Topic modelling with Gensim (LDA) and BERTopic
-- Exploratory visualisations (Matplotlib, Seaborn)  
-- Reproducible workflows with Pandas, NumPy, Jupyter & Git  
+It applies computational methods such as preprocessing, n-grams, sentiment analysis, contextual keyword exploration, and topic modelling to study environmental discourse and literary patterns across historical texts.
 
-**Technologies:**  
-Python · spaCy · Pandas · scikit-learn · NLTK · Gensim · BERTopic · Matplotlib · Seaborn · Tableau  
+**Key tools:**  
+Python · spaCy · Pandas · scikit-learn · NLTK · Gensim · BERTopic · Matplotlib · Tableau
 
 **Repository:**  
 → https://github.com/cbueno82/analisis_literario
 
-<p align="left">
-  <a href="https://github.com/cbueno82/analisis_literario">
-    <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Talent Optimization Project
+A data analysis project focused on extracting actionable insights from structured datasets for decision-making.
 
----
-
-## Featured Repositories
-
-- **NLP & Literary Analysis** → https://github.com/cbueno82/analisis_literario  
-- **Talent Optimization Project** → https://github.com/cbueno82/Proyecto-Optimizacion-de-Talento  
-- **Classic Python Games** → https://github.com/cbueno82/Proyecto-Juegos-Clasicos  
+**Repository:**  
+→ https://github.com/cbueno82/Proyecto-Optimizacion-de-Talento
 
 ---
 
 ## Contact
 
-You can reach me here:
-
 <p align="left">
-
-  <!-- Email -->
-  <a href="mailto:claragarciaolias@gmail.com.com" target="_blank">
+  <a href="mailto:claragarciaolias@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="26" height="26" alt="Email" />
   </a>
-*
-  <!-- LinkedIn -->
+  &nbsp;
   <a href="https://www.linkedin.com/in/clara-garcia-olias/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="26" height="26" alt="LinkedIn" />
   </a>
-*
-  <!-- YouTube -->
+  &nbsp;
   <a href="https://www.youtube.com/@taleoftwodatasets" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" width="26" height="26" alt="YouTube" />
   </a>
-*
-  <!-- Instagram -->
+  &nbsp;
   <a href="https://www.instagram.com/deinfinitivos/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="26" height="26" alt="Instagram" />
   </a>
-
 </p>
+
 ---
 
-## Credits  
-Template adapted from  
-**[thesaravanakumar](https://github.com/thesaravanakumar)**  
+## Credits
 
-Last edited: Dec 2025
+Template adapted from  
+**[thesaravanakumar](https://github.com/thesaravanakumar)**
+
+Last edited: March 2026
